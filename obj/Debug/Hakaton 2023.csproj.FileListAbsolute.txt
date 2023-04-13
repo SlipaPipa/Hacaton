@@ -1,0 +1,81 @@
+C:\Users\Gaster\Documents\My Game\Hakaton 2023\bin\Debug\Hakaton 2023.exe.config
+C:\Users\Gaster\Documents\My Game\Hakaton 2023\bin\Debug\Hakaton 2023.exe
+C:\Users\Gaster\Documents\My Game\Hakaton 2023\bin\Debug\Hakaton 2023.pdb
+C:\Users\Gaster\Documents\My Game\Hakaton 2023\bin\Debug\EntityFramework.dll
+C:\Users\Gaster\Documents\My Game\Hakaton 2023\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Gaster\Documents\My Game\Hakaton 2023\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Gaster\Documents\My Game\Hakaton 2023\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Gaster\Documents\My Game\Hakaton 2023\bin\Debug\System.Data.SQLite.dll
+C:\Users\Gaster\Documents\My Game\Hakaton 2023\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Gaster\Documents\My Game\Hakaton 2023\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Gaster\Documents\My Game\Hakaton 2023\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Gaster\Documents\My Game\Hakaton 2023\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Gaster\Documents\My Game\Hakaton 2023\bin\Debug\Telegram.Bot.dll
+C:\Users\Gaster\Documents\My Game\Hakaton 2023\bin\Debug\EntityFramework.xml
+C:\Users\Gaster\Documents\My Game\Hakaton 2023\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Gaster\Documents\My Game\Hakaton 2023\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Gaster\Documents\My Game\Hakaton 2023\bin\Debug\System.Data.SQLite.xml
+C:\Users\Gaster\Documents\My Game\Hakaton 2023\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Gaster\Documents\My Game\Hakaton 2023\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Gaster\Documents\My Game\Hakaton 2023\bin\Debug\Telegram.Bot.pdb
+C:\Users\Gaster\Documents\My Game\Hakaton 2023\bin\Debug\Telegram.Bot.xml
+C:\Users\Gaster\Documents\My Game\Hakaton 2023\obj\Debug\Hakaton 2023.csproj.AssemblyReference.cache
+C:\Users\Gaster\Documents\My Game\Hakaton 2023\obj\Debug\Hakaton 2023.csproj.SuggestedBindingRedirects.cache
+C:\Users\Gaster\Documents\My Game\Hakaton 2023\obj\Debug\Hakaton 2023.csproj.CoreCompileInputs.cache
+C:\Users\Gaster\Documents\My Game\Hakaton 2023\obj\Debug\Hakaton 2023.csproj.CopyComplete
+C:\Users\Gaster\Documents\My Game\Hakaton 2023\obj\Debug\Hakaton 2023.exe
+C:\Users\Gaster\Documents\My Game\Hakaton 2023\obj\Debug\Hakaton 2023.pdb
+C:\Users\2016U\Downloads\Telegram Desktop\Hakaton 2023\bin\Debug\Hakaton 2023.exe.config
+C:\Users\2016U\Downloads\Telegram Desktop\Hakaton 2023\bin\Debug\Hakaton 2023.exe
+C:\Users\2016U\Downloads\Telegram Desktop\Hakaton 2023\bin\Debug\Hakaton 2023.pdb
+C:\Users\2016U\Downloads\Telegram Desktop\Hakaton 2023\bin\Debug\EntityFramework.dll
+C:\Users\2016U\Downloads\Telegram Desktop\Hakaton 2023\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\2016U\Downloads\Telegram Desktop\Hakaton 2023\bin\Debug\Newtonsoft.Json.dll
+C:\Users\2016U\Downloads\Telegram Desktop\Hakaton 2023\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\2016U\Downloads\Telegram Desktop\Hakaton 2023\bin\Debug\System.Data.SQLite.dll
+C:\Users\2016U\Downloads\Telegram Desktop\Hakaton 2023\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\2016U\Downloads\Telegram Desktop\Hakaton 2023\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\2016U\Downloads\Telegram Desktop\Hakaton 2023\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\2016U\Downloads\Telegram Desktop\Hakaton 2023\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\2016U\Downloads\Telegram Desktop\Hakaton 2023\bin\Debug\Telegram.Bot.dll
+C:\Users\2016U\Downloads\Telegram Desktop\Hakaton 2023\bin\Debug\EntityFramework.xml
+C:\Users\2016U\Downloads\Telegram Desktop\Hakaton 2023\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\2016U\Downloads\Telegram Desktop\Hakaton 2023\bin\Debug\Newtonsoft.Json.xml
+C:\Users\2016U\Downloads\Telegram Desktop\Hakaton 2023\bin\Debug\System.Data.SQLite.xml
+C:\Users\2016U\Downloads\Telegram Desktop\Hakaton 2023\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\2016U\Downloads\Telegram Desktop\Hakaton 2023\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\2016U\Downloads\Telegram Desktop\Hakaton 2023\bin\Debug\Telegram.Bot.pdb
+C:\Users\2016U\Downloads\Telegram Desktop\Hakaton 2023\bin\Debug\Telegram.Bot.xml
+C:\Users\2016U\Downloads\Telegram Desktop\Hakaton 2023\obj\Debug\Hakaton 2023.csproj.AssemblyReference.cache
+C:\Users\2016U\Downloads\Telegram Desktop\Hakaton 2023\obj\Debug\Hakaton 2023.csproj.SuggestedBindingRedirects.cache
+C:\Users\2016U\Downloads\Telegram Desktop\Hakaton 2023\obj\Debug\Hakaton 2023.csproj.CoreCompileInputs.cache
+C:\Users\2016U\Downloads\Telegram Desktop\Hakaton 2023\obj\Debug\Hakaton 2023.csproj.CopyComplete
+C:\Users\2016U\Downloads\Telegram Desktop\Hakaton 2023\obj\Debug\Hakaton 2023.exe
+C:\Users\2016U\Downloads\Telegram Desktop\Hakaton 2023\obj\Debug\Hakaton 2023.pdb
+C:\Users\2016U\Downloads\Hakaton 2023\bin\Debug\Hakaton 2023.exe.config
+C:\Users\2016U\Downloads\Hakaton 2023\bin\Debug\Hakaton 2023.exe
+C:\Users\2016U\Downloads\Hakaton 2023\bin\Debug\Hakaton 2023.pdb
+C:\Users\2016U\Downloads\Hakaton 2023\bin\Debug\EntityFramework.dll
+C:\Users\2016U\Downloads\Hakaton 2023\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\2016U\Downloads\Hakaton 2023\bin\Debug\Newtonsoft.Json.dll
+C:\Users\2016U\Downloads\Hakaton 2023\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\2016U\Downloads\Hakaton 2023\bin\Debug\System.Data.SQLite.dll
+C:\Users\2016U\Downloads\Hakaton 2023\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\2016U\Downloads\Hakaton 2023\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\2016U\Downloads\Hakaton 2023\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\2016U\Downloads\Hakaton 2023\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\2016U\Downloads\Hakaton 2023\bin\Debug\Telegram.Bot.dll
+C:\Users\2016U\Downloads\Hakaton 2023\bin\Debug\EntityFramework.xml
+C:\Users\2016U\Downloads\Hakaton 2023\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\2016U\Downloads\Hakaton 2023\bin\Debug\Newtonsoft.Json.xml
+C:\Users\2016U\Downloads\Hakaton 2023\bin\Debug\System.Data.SQLite.xml
+C:\Users\2016U\Downloads\Hakaton 2023\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\2016U\Downloads\Hakaton 2023\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\2016U\Downloads\Hakaton 2023\bin\Debug\Telegram.Bot.pdb
+C:\Users\2016U\Downloads\Hakaton 2023\bin\Debug\Telegram.Bot.xml
+C:\Users\2016U\Downloads\Hakaton 2023\obj\Debug\Hakaton 2023.csproj.AssemblyReference.cache
+C:\Users\2016U\Downloads\Hakaton 2023\obj\Debug\Hakaton 2023.csproj.SuggestedBindingRedirects.cache
+C:\Users\2016U\Downloads\Hakaton 2023\obj\Debug\Hakaton 2023.csproj.CoreCompileInputs.cache
+C:\Users\2016U\Downloads\Hakaton 2023\obj\Debug\Hakaton 2023.csproj.CopyComplete
+C:\Users\2016U\Downloads\Hakaton 2023\obj\Debug\Hakaton 2023.exe
+C:\Users\2016U\Downloads\Hakaton 2023\obj\Debug\Hakaton 2023.pdb
